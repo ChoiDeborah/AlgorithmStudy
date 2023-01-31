@@ -127,6 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="두 수의 곱.cpp" />
+    <ClCompile Include="두 수의 나눗셈.cpp" />
+    <ClCompile Include="두 수의 차.cpp" />
+    <ClCompile Include="두 수의 합.cpp" />
+    <ClCompile Include="몫 구하기.cpp" />
     <ClCompile Include="문자열 뒤집기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
