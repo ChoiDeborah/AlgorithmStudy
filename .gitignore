@@ -30,6 +30,5 @@
 *.out
 *.app
 Output
-Engine/x64
-Client/x64
+Algorithm/x64
 .vs

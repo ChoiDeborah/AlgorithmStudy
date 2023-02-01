@@ -127,12 +127,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="나머지 구하기.cpp" />
     <ClCompile Include="두 수의 곱.cpp" />
     <ClCompile Include="두 수의 나눗셈.cpp" />
     <ClCompile Include="두 수의 차.cpp" />
     <ClCompile Include="두 수의 합.cpp" />
     <ClCompile Include="몫 구하기.cpp" />
     <ClCompile Include="문자열 뒤집기.cpp" />
+    <ClCompile Include="배열 두 배 만들기.cpp" />
+    <ClCompile Include="배열의 평균값.cpp" />
+    <ClCompile Include="분수의 덧셈.cpp" />
+    <ClCompile Include="숫자 비교하기.cpp" />
+    <ClCompile Include="중앙값 구하기.cpp" />
+    <ClCompile Include="짝수는 싫어요.cpp" />
+    <ClCompile Include="최빈값 구하기.cpp" />
+    <ClCompile Include="피자 나눠 먹기 (1).cpp" />
+    <ClCompile Include="피자 나눠 먹기 (2).cpp" />
+    <ClCompile Include="피자 나눠 먹기 (3).cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
