@@ -13,9 +13,6 @@
     <ClCompile Include="두 수의 합.cpp">
       <Filter>Day01</Filter>
     </ClCompile>
-    <ClCompile Include="문자열 뒤집기.cpp">
-      <Filter>Etc</Filter>
-    </ClCompile>
     <ClCompile Include="두 수의 나눗셈.cpp">
       <Filter>Day02</Filter>
     </ClCompile>
@@ -52,13 +49,34 @@
     <ClCompile Include="배열의 평균값.cpp">
       <Filter>Day04</Filter>
     </ClCompile>
+    <ClCompile Include="옷가게 할인 받기.cpp">
+      <Filter>Day05</Filter>
+    </ClCompile>
+    <ClCompile Include="아이스 아메리카노.cpp">
+      <Filter>Day05</Filter>
+    </ClCompile>
+    <ClCompile Include="나이출력.cpp">
+      <Filter>Day05</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 뒤집기.cpp">
+      <Filter>Day05</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 뒤집기.cpp">
+      <Filter>Day06</Filter>
+    </ClCompile>
+    <ClCompile Include="직각삼각형 출력하기.cpp">
+      <Filter>Day06</Filter>
+    </ClCompile>
+    <ClCompile Include="짝수 홀수 개수.cpp">
+      <Filter>Day06</Filter>
+    </ClCompile>
+    <ClCompile Include="문자 반복 출력하기.cpp">
+      <Filter>Day06</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Day01">
       <UniqueIdentifier>{a8adb21d-171b-494d-8f61-a058ccc72e30}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Etc">
-      <UniqueIdentifier>{45cff52e-00ae-416a-8682-3736b9c276e8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Day02">
       <UniqueIdentifier>{9d3133d7-e4bc-449c-bc15-f1ee056cf1f2}</UniqueIdentifier>
@@ -68,6 +86,12 @@
     </Filter>
     <Filter Include="Day04">
       <UniqueIdentifier>{ce0345d3-8e5d-4a74-a8a1-769634fe972d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day05">
+      <UniqueIdentifier>{37630878-97d6-437a-a309-5b2e31cb6f6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day06">
+      <UniqueIdentifier>{e1891616-c3fc-40de-a13a-517c8c32dc01}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

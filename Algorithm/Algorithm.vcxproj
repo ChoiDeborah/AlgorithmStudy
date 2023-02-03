@@ -128,17 +128,24 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="나머지 구하기.cpp" />
+    <ClCompile Include="나이출력.cpp" />
     <ClCompile Include="두 수의 곱.cpp" />
     <ClCompile Include="두 수의 나눗셈.cpp" />
     <ClCompile Include="두 수의 차.cpp" />
     <ClCompile Include="두 수의 합.cpp" />
     <ClCompile Include="몫 구하기.cpp" />
+    <ClCompile Include="문자 반복 출력하기.cpp" />
     <ClCompile Include="문자열 뒤집기.cpp" />
     <ClCompile Include="배열 두 배 만들기.cpp" />
+    <ClCompile Include="배열 뒤집기.cpp" />
     <ClCompile Include="배열의 평균값.cpp" />
     <ClCompile Include="분수의 덧셈.cpp" />
     <ClCompile Include="숫자 비교하기.cpp" />
+    <ClCompile Include="아이스 아메리카노.cpp" />
+    <ClCompile Include="옷가게 할인 받기.cpp" />
     <ClCompile Include="중앙값 구하기.cpp" />
+    <ClCompile Include="직각삼각형 출력하기.cpp" />
+    <ClCompile Include="짝수 홀수 개수.cpp" />
     <ClCompile Include="짝수는 싫어요.cpp" />
     <ClCompile Include="최빈값 구하기.cpp" />
     <ClCompile Include="피자 나눠 먹기 (1).cpp" />

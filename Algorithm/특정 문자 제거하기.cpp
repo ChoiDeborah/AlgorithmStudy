@@ -1,0 +1,17 @@
+#include <string>
+
+using namespace std;
+
+string solution(string my_string, string letter) {
+    string answer = "";
+
+    for (char ch : my_string)
+    {
+        if (*letter.c_str() == ch)
+            continue;
+
+        answer += ch;
+    }
+
+    return answer;
+}
