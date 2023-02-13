@@ -73,6 +73,42 @@
     <ClCompile Include="문자 반복 출력하기.cpp">
       <Filter>Day06</Filter>
     </ClCompile>
+    <ClCompile Include="특정 문자 제거하기.cpp">
+      <Filter>Day07</Filter>
+    </ClCompile>
+    <ClCompile Include="각도기.cpp">
+      <Filter>Day07</Filter>
+    </ClCompile>
+    <ClCompile Include="양꼬치.cpp">
+      <Filter>Day07</Filter>
+    </ClCompile>
+    <ClCompile Include="짝수의 합.cpp">
+      <Filter>Day07</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 자르기.cpp">
+      <Filter>Day08</Filter>
+    </ClCompile>
+    <ClCompile Include="외계행성의 나이.cpp">
+      <Filter>Day08</Filter>
+    </ClCompile>
+    <ClCompile Include="진료순서 정하기.cpp">
+      <Filter>Day08</Filter>
+    </ClCompile>
+    <ClCompile Include="순서쌍의 개수.cpp">
+      <Filter>Day08</Filter>
+    </ClCompile>
+    <ClCompile Include="개미 군단.cpp">
+      <Filter>Day09</Filter>
+    </ClCompile>
+    <ClCompile Include="모스부호(1).cpp">
+      <Filter>Day09</Filter>
+    </ClCompile>
+    <ClCompile Include="가위 바위 보.cpp">
+      <Filter>Day09</Filter>
+    </ClCompile>
+    <ClCompile Include="구슬을 나누는 경우의 수.cpp">
+      <Filter>Day09</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Day01">
@@ -92,6 +128,15 @@
     </Filter>
     <Filter Include="Day06">
       <UniqueIdentifier>{e1891616-c3fc-40de-a13a-517c8c32dc01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day07">
+      <UniqueIdentifier>{b3270cae-476e-4c10-bf9c-250b589f1d60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day08">
+      <UniqueIdentifier>{2522d990-e6b2-4c66-9135-b855692031c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day09">
+      <UniqueIdentifier>{daa63fa4-d9ec-458f-8efd-de92d7955a3c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
