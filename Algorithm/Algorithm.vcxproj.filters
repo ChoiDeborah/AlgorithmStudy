@@ -193,6 +193,18 @@
     <ClCompile Include="배열의 유사도.cpp">
       <Filter>Day16</Filter>
     </ClCompile>
+    <ClCompile Include="숫자 찾기.cpp">
+      <Filter>Day17</Filter>
+    </ClCompile>
+    <ClCompile Include="n의 배수 고르기.cpp">
+      <Filter>Day17</Filter>
+    </ClCompile>
+    <ClCompile Include="자릿수 더하기.cpp">
+      <Filter>Day17</Filter>
+    </ClCompile>
+    <ClCompile Include="OX퀴즈.cpp">
+      <Filter>Day17</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Day01">
@@ -242,6 +254,9 @@
     </Filter>
     <Filter Include="Day16">
       <UniqueIdentifier>{bf86c701-6eff-42cb-a411-327707df7786}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day17">
+      <UniqueIdentifier>{e20fd0f2-744c-467b-b5d6-818b6da70f42}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

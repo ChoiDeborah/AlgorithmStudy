@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="2차원으로 만들기.cpp" />
     <ClCompile Include="369게임.cpp" />
+    <ClCompile Include="n의 배수 고르기.cpp" />
+    <ClCompile Include="OX퀴즈.cpp" />
     <ClCompile Include="가까운 수.cpp" />
     <ClCompile Include="가위 바위 보.cpp" />
     <ClCompile Include="가장 큰 수 찾기.cpp" />
@@ -163,6 +165,7 @@
     <ClCompile Include="순서쌍의 개수.cpp" />
     <ClCompile Include="숨어있는 숫자의 덧셈 (1).cpp" />
     <ClCompile Include="숫자 비교하기.cpp" />
+    <ClCompile Include="숫자 찾기.cpp" />
     <ClCompile Include="아이스 아메리카노.cpp" />
     <ClCompile Include="암호 해독.cpp" />
     <ClCompile Include="약수 구하기.cpp" />
@@ -171,6 +174,7 @@
     <ClCompile Include="옷가게 할인 받기.cpp" />
     <ClCompile Include="외계행성의 나이.cpp" />
     <ClCompile Include="인덱스 바꾸기.cpp" />
+    <ClCompile Include="자릿수 더하기.cpp" />
     <ClCompile Include="점의 위치 구하기.cpp" />
     <ClCompile Include="주사위의 개수.cpp" />
     <ClCompile Include="중복된 문자 제거.cpp" />
