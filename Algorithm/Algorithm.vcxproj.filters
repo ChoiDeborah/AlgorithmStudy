@@ -157,6 +157,18 @@
     <ClCompile Include="중복된 문자 제거.cpp">
       <Filter>Day13</Filter>
     </ClCompile>
+    <ClCompile Include="가까운 수.cpp">
+      <Filter>Day14</Filter>
+    </ClCompile>
+    <ClCompile Include="369게임.cpp">
+      <Filter>Day14</Filter>
+    </ClCompile>
+    <ClCompile Include="암호 해독.cpp">
+      <Filter>Day14</Filter>
+    </ClCompile>
+    <ClCompile Include="대문자와 소문자.cpp">
+      <Filter>Day14</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Day01">
@@ -197,6 +209,9 @@
     </Filter>
     <Filter Include="Day13">
       <UniqueIdentifier>{3feef331-bbe9-4c84-82e6-c191e02e4394}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day14">
+      <UniqueIdentifier>{f40dc647-4d31-4d39-ae5c-4189763261d1}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
