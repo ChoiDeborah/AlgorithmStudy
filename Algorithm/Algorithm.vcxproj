@@ -162,9 +162,12 @@
     <ClCompile Include="숫자 비교하기.cpp" />
     <ClCompile Include="아이스 아메리카노.cpp" />
     <ClCompile Include="암호 해독.cpp" />
+    <ClCompile Include="약수 구하기.cpp" />
     <ClCompile Include="양꼬치.cpp" />
+    <ClCompile Include="영어가 싫어요.cpp" />
     <ClCompile Include="옷가게 할인 받기.cpp" />
     <ClCompile Include="외계행성의 나이.cpp" />
+    <ClCompile Include="인덱스 바꾸기.cpp" />
     <ClCompile Include="점의 위치 구하기.cpp" />
     <ClCompile Include="주사위의 개수.cpp" />
     <ClCompile Include="중복된 문자 제거.cpp" />
@@ -182,6 +185,7 @@
     <ClCompile Include="피자 나눠 먹기 (1).cpp" />
     <ClCompile Include="피자 나눠 먹기 (2).cpp" />
     <ClCompile Include="피자 나눠 먹기 (3).cpp" />
+    <ClCompile Include="한 번만 등장한 문자.cpp" />
     <ClCompile Include="합성수 찾기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

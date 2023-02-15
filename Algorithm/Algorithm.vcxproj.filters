@@ -169,6 +169,18 @@
     <ClCompile Include="대문자와 소문자.cpp">
       <Filter>Day14</Filter>
     </ClCompile>
+    <ClCompile Include="영어가 싫어요.cpp">
+      <Filter>Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="인덱스 바꾸기.cpp">
+      <Filter>Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="한 번만 등장한 문자.cpp">
+      <Filter>Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="약수 구하기.cpp">
+      <Filter>Day15</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Day01">
@@ -212,6 +224,9 @@
     </Filter>
     <Filter Include="Day14">
       <UniqueIdentifier>{f40dc647-4d31-4d39-ae5c-4189763261d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day15">
+      <UniqueIdentifier>{cd6b9cb1-60db-42c6-b3a5-39937cc98e40}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
