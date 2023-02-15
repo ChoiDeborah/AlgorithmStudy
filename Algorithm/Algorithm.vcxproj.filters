@@ -145,6 +145,18 @@
     <ClCompile Include="소인수분해.cpp">
       <Filter>Day12</Filter>
     </ClCompile>
+    <ClCompile Include="컨트롤 제트.cpp">
+      <Filter>Day13</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 원소의 길이.cpp">
+      <Filter>Day13</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각형의 완성조건 (1).cpp">
+      <Filter>Day13</Filter>
+    </ClCompile>
+    <ClCompile Include="중복된 문자 제거.cpp">
+      <Filter>Day13</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Day01">
@@ -182,6 +194,9 @@
     </Filter>
     <Filter Include="Day12">
       <UniqueIdentifier>{ecf7cfed-6794-4be4-954f-a48c960de84b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day13">
+      <UniqueIdentifier>{3feef331-bbe9-4c84-82e6-c191e02e4394}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
