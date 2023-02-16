@@ -205,6 +205,54 @@
     <ClCompile Include="OX퀴즈.cpp">
       <Filter>Day17</Filter>
     </ClCompile>
+    <ClCompile Include="문자열안에 문자열.cpp">
+      <Filter>Day18</Filter>
+    </ClCompile>
+    <ClCompile Include="제곱수 판별하기.cpp">
+      <Filter>Day18</Filter>
+    </ClCompile>
+    <ClCompile Include="세균 증식.cpp">
+      <Filter>Day18</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 정렬하기 (2).cpp">
+      <Filter>Day18</Filter>
+    </ClCompile>
+    <ClCompile Include="7의 개수.cpp">
+      <Filter>Day19</Filter>
+    </ClCompile>
+    <ClCompile Include="잘라서 배열로 저장하기.cpp">
+      <Filter>Day19</Filter>
+    </ClCompile>
+    <ClCompile Include="중복된 숫자 개수.cpp">
+      <Filter>Day19</Filter>
+    </ClCompile>
+    <ClCompile Include="머쓱이보다 키 큰 사람.cpp">
+      <Filter>Day19</Filter>
+    </ClCompile>
+    <ClCompile Include="직사각형 넓이 구하기.cpp">
+      <Filter>Day20</Filter>
+    </ClCompile>
+    <ClCompile Include="캐릭터의 좌표.cpp">
+      <Filter>Day20</Filter>
+    </ClCompile>
+    <ClCompile Include="최댓값 만들기 (2).cpp">
+      <Filter>Day20</Filter>
+    </ClCompile>
+    <ClCompile Include="다항식 더하기.cpp">
+      <Filter>Day20</Filter>
+    </ClCompile>
+    <ClCompile Include="숨어있는 숫자의 덧셈 (2).cpp">
+      <Filter>Day21</Filter>
+    </ClCompile>
+    <ClCompile Include="안전지대.cpp">
+      <Filter>Day21</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각형의 완성조건 (2).cpp">
+      <Filter>Day21</Filter>
+    </ClCompile>
+    <ClCompile Include="외계어 사전.cpp">
+      <Filter>Day21</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Day01">
@@ -257,6 +305,18 @@
     </Filter>
     <Filter Include="Day17">
       <UniqueIdentifier>{e20fd0f2-744c-467b-b5d6-818b6da70f42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day18">
+      <UniqueIdentifier>{5b4424bb-2a38-4012-b44e-4b09d12db654}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day19">
+      <UniqueIdentifier>{34a52684-5aec-4d6c-ac33-d4c681173870}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day20">
+      <UniqueIdentifier>{1718e22c-cd07-45a4-aea2-597d392b10ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Day21">
+      <UniqueIdentifier>{e871d371-a618-4133-83db-fa31e8418f34}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
